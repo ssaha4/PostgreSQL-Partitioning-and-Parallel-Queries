@@ -1,4 +1,4 @@
-# Data Processing at Scale
+# PostgreSQL Partitioning and Parallel Queries
 
 PostgreSQL and Python implementations for partitioning movie ratings, querying partitions, and implementing range-based sort and join. The repository also documents a separate Spark SQL project on spatial analysis of NYC taxi trips.
 
